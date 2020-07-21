@@ -1,0 +1,2 @@
+Download the distribution code from https://cdn.cs50.net/ai/2020/x/projects/0/tictactoe.zip and unzip it.
+Once in the directory for the project, run ```pip3 install -r requirements.txt``` to install the required Python package (pygame) for this project.
